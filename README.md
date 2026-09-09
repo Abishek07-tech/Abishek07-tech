@@ -13,12 +13,10 @@
 ## 🚀 About Me
 
 ```yaml
-Name: Abishek
+Name: Abishek A S
 Role: Computer Science Engineering Student
 College: Muthayammal Engineering College, Rasipuram
-Graduating: 2027
-Title: Microsoft Learn Student Ambassador (MLSA)
-Founder: VoidFramez
+Graduating: 2028
 Location: Salem District, Tamil Nadu, India 🇮🇳
 
 Current Focus:
