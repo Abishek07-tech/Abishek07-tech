@@ -194,12 +194,36 @@ System Design     ████████░░░░░░░░░░░░  
 
 ## 🐍 Contribution Snake (animated, eats your commit graph)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Abishek07-tech/Abishek07-tech/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/Abishek07-tech/Abishek07-tech/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
+name: Generate Snake
 
-<br>
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Abishek07-tech
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ## 📫 Connect With Me
 
