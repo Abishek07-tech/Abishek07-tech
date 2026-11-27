@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 
-<h3 align="center">Full-Stack Developer | CSE Student | Microsoft Learn Student Ambassador</h3>
+<h3 align="center">Full-Stack Developer | Computer Science Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=%3E+Build.+Break.+Learn.+Repeat;%3E+Debugging+The+Chaos;%3E+If+It+Compiles%2C+It's+Staying" alt="Typing SVG" />
@@ -18,11 +18,9 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/db6c6b71-96a8-422a-8e07-861c78adb029" width="160" alt="About me illustration"/>
 
-I'm **Abishek**, a Computer Science Engineering student at Muthayammal Engineering College, Rasipuram, and a Microsoft Learn Student Ambassador.
+I'm **Abishek**, a Computer Science Engineering student at Muthayammal Engineering College, Rasipuram.
 
 I build full-stack projects with the **MERN stack**, and I'm sharpening my problem-solving through **Data Structures & Algorithms**.
-
-I also run **VoidFramez**, a content brand, and mentor juniors in Java.
 
 My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
 
