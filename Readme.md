@@ -16,7 +16,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="YOUR_IMAGE_URL" width="250" alt="About me illustration"/>
+<img align="right" src="<img width="736" height="1314" alt="githubside" src="https://github.com/user-attachments/assets/db6c6b71-96a8-422a-8e07-861c78adb029" />
+" width="250" alt="About me illustration"/>
 
 I'm **Abishek**, a Computer Science Engineering student at Muthayammal Engineering College, Rasipuram, and a Microsoft Learn Student Ambassador.
 
