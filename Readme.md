@@ -16,6 +16,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
+<img align="right" src="YOUR_IMAGE_URL" width="250" alt="About me illustration"/>
+
 I'm **Abishek**, a Computer Science Engineering student at Muthayammal Engineering College, Rasipuram, and a Microsoft Learn Student Ambassador.
 
 I build full-stack projects with the **MERN stack**, and I'm sharpening my problem-solving through **Data Structures & Algorithms**.
@@ -23,6 +25,8 @@ I build full-stack projects with the **MERN stack**, and I'm sharpening my probl
 I also run **VoidFramez**, a content brand, and mentor juniors in Java.
 
 My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
+
+<br clear="right"/>
 
 <h2 align="center">🤝 Connect</h2>
 
